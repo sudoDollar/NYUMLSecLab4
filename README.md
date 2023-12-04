@@ -14,3 +14,7 @@
 1. numpy
 1. h5py
 1. matplotlib
+
+
+### Evaluation:
+Repaired Models are present in RepairedModels directory with name <BadNets_prime_{x}percent.h5> where x represents threshold (2, 4 10)
