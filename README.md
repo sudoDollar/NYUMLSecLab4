@@ -1,5 +1,7 @@
 # NYUMLSecLab4
 
+### Author: Ankit Rajvanshi (ar7996)
+
 ### Need to Change paths of following files before running jupyter notebook:
 1. clean_test_data_path
 1. clean_valid_data_path
